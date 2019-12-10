@@ -44,8 +44,7 @@
 
       <div class="col-6">
 
-      This is the first assignment of this class, I updated the traditional number guessing game to make it becomes more playable. Allows players to guess numbers through ten different math problems instead of clueless. This also requires players to have certain mathematical knowledge, so it is also an advanced puzzle game
-.0
+      This is the first assignment of this class, I updated the traditional number guessing game to make it becomes more playable. Allows players to guess numbers through ten different math problems instead of clueless. This also requires players to have certain mathematical knowledge, so it is also an advanced puzzle game.
       </div>
 
       <div class="col-2">
